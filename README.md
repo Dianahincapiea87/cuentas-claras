@@ -4,6 +4,8 @@ App para organizar los gastos del hogar en pesos colombianos.
 
 - Compras con sus artículos, cada uno marcado como **Solo yo** o **Repartir ÷N**.
 - Foto del recibo en cada compra.
+- **Descuentos** por artículo (V.Ahorro del recibo), con el precio sin descuento y lo ahorrado en el mes.
+- Días de promoción del Éxito (martes y miércoles ★) y filtro por día.
 - **Gastos fijos** (arriendo, servicios, internet…) que se suman solos cada mes, con pagado, valor del mes y omitir.
 - Vistas **Por categoría** y **Por tipo** (Básico, Fijo, Extra).
 - Resumen del mes: ingreso, mi gasto y lo disponible.
